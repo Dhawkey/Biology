@@ -1,5 +1,5 @@
 # Douglas Hawkey 3/1/14
-#This program was made to provide an easy viewing of tab delimited files containing metatranscriptome data for students.
+#This program was made for students to facilitate easy viewing of tab delimited files containing metatranscriptome data
 
 import tkinter as tk
 from tkinter.filedialog import askopenfilename, asksaveasfile
